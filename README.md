@@ -26,10 +26,6 @@
 ![](https://img.shields.io/badge/Framework-Apache_Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-
 
 ## 📫 How to Reach Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/leela-sagar-ls/)
