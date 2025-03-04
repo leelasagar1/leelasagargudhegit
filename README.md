@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Leela Sagar Gudhe
-**🚀 Data Engineer | Python | Big Data | Cloud Solutions**
+**🚀 Data Engineer **
 
-Welcome to my GitHub profile! I'm a passionate data engineer focused on building robust, scalable data pipelines and analytics solutions. With 4+ years of experience, I specialize in transforming raw data into valuable business insights.
+ I'm a passionate data engineer focused on building robust, scalable data pipelines and analytics solutions. With 4+ years of experience, I specialize in transforming raw data into valuable business insights.
 
 ---
 
@@ -20,9 +20,15 @@ Welcome to my GitHub profile! I'm a passionate data engineer focused on building
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Apache_Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 
 ## 📫 How to Reach Me
