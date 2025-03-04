@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Leela Sagar Gudhe
-**🚀 Data Engineer **
+**🚀 Data Engineer**
 
  I'm a passionate data engineer focused on building robust, scalable data pipelines and analytics solutions. With 4+ years of experience, I specialize in transforming raw data into valuable business insights.
 
