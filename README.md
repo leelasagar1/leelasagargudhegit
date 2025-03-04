@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image" alt="Banner" width="100%" />
-</div>
-
 # 👋 Hi, I'm Leela Sagar Gudhe
 **🚀 Data Engineer | Python | Big Data | Cloud Solutions**
 
@@ -18,27 +14,17 @@ Welcome to my GitHub profile! I'm a passionate data engineer focused on building
 
 ---
 
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Apache_Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=2bbc8a)
 
-## 🛠️ Technical Skills
-### Languages:
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools & Frameworks:
-![Spark](https://img.shields.io/badge/Apache%20Spark-lightgrey?style=flat-square&logo=apachespark&logoColor=red)
-![Airflow](https://img.shields.io/badge/Airflow-blue?style=flat-square&logo=apacheairflow&logoColor=white)
-
-### Cloud Platforms:
-![AWS](https://img.shields.io/badge/AWS-orange?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-blue?style=flat-square&logo=googlecloud&logoColor=white)
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leela-sagar-ls/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:leelasagar.gudhe@gmail.com)
-
----
-
-## 🎯 Call to Action
-Looking for opportunities to collaborate or hire a skilled Data Engineer? Let’s connect! 🚀
+## 📫 How to Reach Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/leela-sagar-ls/)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:leelasagar.gudhe@gmail.com)
